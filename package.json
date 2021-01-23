@@ -1,0 +1,12 @@
+{
+  "name": "post-init",
+  "version": "1.0.0",
+  "description": "Share common configuration to boost up project start",
+  "main": "index.js",
+  "author": "Waymond Ai <han.ai@me.com>",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=12"
+  }
+}
