@@ -8,5 +8,11 @@
   "type": "module",
   "engines": {
     "node": ">=12"
+  },
+  "scripts": {
+    "postinstall": "sharec"
+  },
+  "dependencies": {
+    "sharec": "^2.9.0"
   }
 }
